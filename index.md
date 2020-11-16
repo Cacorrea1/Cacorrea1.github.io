@@ -1,8 +1,4 @@
-## Vision Por Computador
-
-You can use the [editor on GitHub](https://github.com/Cacorrea1/Cacorrea1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Identifique los edificios de guayquil
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
@@ -15,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "./my_model/";
+    const URL = "https://teachablemachine.withgoogle.com/models/HYDNN3WNM/";
 
     let model, webcam, labelContainer, maxPredictions;
 
@@ -63,3 +59,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
         }
     }
 </script>
+
