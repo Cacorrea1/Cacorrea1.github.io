@@ -1,4 +1,4 @@
-## Identifique los edificios de guayquil
+## Identificador de objetos
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
