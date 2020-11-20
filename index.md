@@ -1,5 +1,6 @@
 ## Identificador de objetos
 
+
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -60,9 +61,4 @@
     }
 </script>
 
-<iframe
-    allow="microphone;"
-    width="350"
-    height="430"
-    src="https://console.dialogflow.com/api-client/demo/embedded/computacion_paralela_correa">
-</iframe>
+<iframe height="430" width="350" src="https://bot.dialogflow.com/computacion_paralela_correa"></iframe>
